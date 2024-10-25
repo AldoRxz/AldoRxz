@@ -13,27 +13,18 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 
-<h2 align="left">Hi 👋! My name is Aldo</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&width=435&lines=Hi+my+name+is+Aldo" alt="Typing SVG" /></a>
 
 ###
-
 <h2 align="left">About Me</h2>
 
 ###
-
 <p align="left">👋 I'm a backend developer specializing in Python and Django. I work with SQL and tools like Airflow and Jenkins for efficient workflows. Always exploring new tech and passionate about writing clean code! 💻✨</p>
 
 ###
-
-<div align="left">
-</div>
-
-###
-
 <h3 align="left">Technologies and tools:</h3>
 
 ###
-
 <br clear="both">
 
 <div align="left">
@@ -63,18 +54,15 @@
 </div>
 
 ###
-
-<img align="right" height="280" src="https://media.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif?cid=ecf05e47lppfkwbj76nzx5j8i5nosfw8zktzooj22eji4yc4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="300" src="https://media.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif?cid=ecf05e47lppfkwbj76nzx5j8i5nosfw8zktzooj22eji4yc4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AldoRxz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AldoRxz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 ###
-
 <br clear="both">
 
 
